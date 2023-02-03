@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>chadjoan@gmail.com</email>
+		<name>Chad Joan</name>
+	</maintainer>
+	<upstream>
+		<remote-id type="github">martymac/fpart</remote-id>
+	</upstream>
+</pkgmetadata>
